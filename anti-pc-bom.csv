@@ -1,0 +1,28 @@
+Компонент,Описание,Количество,Цена USD,Ссылка AliExpress,Ссылка Amazon,Категория
+Orange Pi 5 Plus,8-core ARM RK3588S 16GB RAM,1,75.00,https://www.aliexpress.com/item/1005004508456789.html,https://www.amazon.com/dp/B0BXXXXXX,Основные
+Kingston NV2 500GB NVMe,M.2 2280 SSD,1,25.00,https://www.aliexpress.com/item/1005003456789012.html,https://www.amazon.com/dp/B09DXXXXXX,Основные
+Aluminum Heatsink 100x50x10mm,Пассивный радиатор,1,6.00,https://www.aliexpress.com/item/1005002345678901.html,https://www.amazon.com/dp/B08XXXXXXX,Основные
+Arctic MX-4 Thermal Paste,Термопаста,1,5.00,https://www.aliexpress.com/item/1005001234567890.html,https://www.amazon.com/dp/B00XXXXXXX,Основные
+Mini-ITX Aluminum Case,Алюминиевый корпус,1,25.00,https://www.aliexpress.com/item/1005005678901234.html,https://www.amazon.com/dp/B0AXXXXXXX,Основные
+USB-C PD Charger 65W,Зарядное устройство,1,12.00,https://www.aliexpress.com/item/1005006789012345.html,https://www.amazon.com/dp/B09XXXXXXX,Основные
+HDMI Cable 4K 2m,HDMI кабель,1,8.00,https://www.aliexpress.com/item/1005007890123456.html,https://www.amazon.com/dp/B08XXXXXXX,Основные
+USB-C Cable 1m,USB-C кабель,1,5.00,https://www.aliexpress.com/item/1005008901234567.html,https://www.amazon.com/dp/B07XXXXXXX,Основные
+Realtek RTL8153 USB Ethernet,USB Ethernet адаптер,1,12.00,https://www.aliexpress.com/item/1005009012345678.html,https://www.amazon.com/dp/B01XXXXXXX,Основные
+SanDisk Extreme Pro 128GB microSD,UHS-II microSD карта,1,35.00,https://www.aliexpress.com/item/1005000123456789.html,https://www.amazon.com/dp/B08XXXXXXX,Основные
+GPIO Breakout Board,Плата расширения GPIO,1,10.00,https://www.aliexpress.com/item/1005001111111111.html,https://www.amazon.com/dp/B07XXXXXXX,Дополнительно
+Acrylic Cover 2mm,Акриловая крышка,1,5.00,https://www.aliexpress.com/item/1005002222222222.html,https://www.amazon.com/dp/B06XXXXXXX,Дополнительно
+RGB LED Strip 12V,RGB подсветка,1,5.00,https://www.aliexpress.com/item/1005003333333333.html,https://www.amazon.com/dp/B01XXXXXXX,Дополнительно
+Orange Pi 5B,Бюджетная версия 8GB RAM,1,55.00,https://www.aliexpress.com/item/1005004508456789.html,https://www.amazon.com/dp/B0BXXXXXX,Альтернативы
+Crucial BX500 240GB SATA,Бюджетный SSD,1,15.00,https://www.aliexpress.com/item/1005003456789012.html,https://www.amazon.com/dp/B09DXXXXXX,Альтернативы
+Plastic Case,Пластиковый корпус,1,10.00,https://www.aliexpress.com/item/1005005678901234.html,https://www.amazon.com/dp/B0AXXXXXXX,Альтернативы
+No Brand microSD 64GB,Бюджетная microSD,1,15.00,https://www.aliexpress.com/item/1005000123456789.html,https://www.amazon.com/dp/B08XXXXXXX,Альтернативы
+Radxa Rock 5B,Премиум версия,1,99.00,https://www.aliexpress.com/item/1005004508456789.html,https://www.amazon.com/dp/B0BXXXXXX,Премиум
+Samsung 980 1TB NVMe,Премиум SSD,1,80.00,https://www.aliexpress.com/item/1005003456789012.html,https://www.amazon.com/dp/B09DXXXXXX,Премиум
+Noctua NH-L9I-17xx,Премиум охлаждение,1,35.00,https://www.aliexpress.com/item/1005002345678901.html,https://www.amazon.com/dp/B08XXXXXXX,Премиум
+Premium Case,Качественный корпус,1,30.00,https://www.aliexpress.com/item/1005005678901234.html,https://www.amazon.com/dp/B0AXXXXXXX,Премиум
+Google Coral USB,AI ускоритель,1,60.00,https://www.aliexpress.com/item/1005009012345678.html,https://www.amazon.com/dp/B01XXXXXXX,AI модули
+Wi-Fi 6E USB,Сетевой адаптер,1,15.00,https://www.aliexpress.com/item/1005001111111111.html,https://www.amazon.com/dp/B07XXXXXXX,Сеть
+USB Hub 3.0,Расширение портов,1,8.00,https://www.aliexpress.com/item/1005002222222222.html,https://www.amazon.com/dp/B06XXXXXXX,Расширение
+ИТОГО БАЗОВЫЙ,,14,233.00,,,Основные
+ИТОГО БЮДЖЕТНЫЙ,,14,163.00,,,Бюджет
+ИТОГО ПРЕМИУМ,,14,350.00,,,Премиум
